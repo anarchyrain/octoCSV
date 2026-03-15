@@ -1,5 +1,5 @@
 # Octocon Data Converter
-This is just a tool I made for myself to save as much of my Octocon data as possible.
+This is just a command line tool I made for myself to save as much of my Octocon data as possible.
 
 # What does it do?
 Currently, it exports your Octocon alter data to a CSV file. This data is not fully human-readable at this moment in time, and it does not currently include poll, tag, or accurate custom fields data - I mostly wrote this to get the avatar links before Octocon's servers shut down (I know they said avatar servers would stay online a bit longer, but I'm not sure how much longer).
