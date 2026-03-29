@@ -16,3 +16,12 @@ I used it to get my avatar URLs more easily and download them. You do still have
 - Create exports for all data
 - Get as much data into human-readable format as possible
 - Attempt to convert between different formats in some way?
+
+# Known issues
+- Some people may need to install the tkinter library manually. It's usually packaged with Python on Windows and MacOS; on Linux, it often comes separately.
+
+> arch: `sudo pacman -S tk`\n
+> ubuntu/debian: `sudo apt install python3-tk`\n
+> fedora: `sudo dnf install python-tkinter`
+
+- User and fields data export doesn't currently work. These keys are stored in a way that neither I nor the JSON libraries can figure out, apparently.
