@@ -6,6 +6,19 @@ Currently, it exports your Octocon alter data to a CSV file. This data is not fu
 
 This converter is written in Python and currently requires the full Octocon format to work, as far as I know. You're welcome to try it with other formats, though.
 
+# How to use
+First, make sure Python (and the Tkinter library) are installed on your system. Instructions vary by operating system.
+
+In a terminal emulator (ex. Command Prompt, Konsole, Xterm), navigate to the directory (using the Downloads folder as an example):
+
+`cd ./home/[user]/Downloads` on Linux\n
+`cd C:\Users\[user]\Downloads` on Windows\n
+`cd ~/Downloads` on MacOS
+
+Then, run the program with Python:
+
+`python octoCSV-x.x.py` (where x.x is the version number)
+
 # What can I do with it?
 I used it to get my avatar URLs more easily and download them. You do still have to copy the links into the command, but it was a lot easier from a CSV.
 
