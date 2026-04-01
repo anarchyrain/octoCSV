@@ -11,8 +11,8 @@ First, make sure Python (and the Tkinter library) are installed on your system. 
 
 In a terminal emulator (ex. Command Prompt, Konsole, Xterm), navigate to the directory (using the Downloads folder as an example):
 
-`cd ./home/[user]/Downloads` on Linux\n
-`cd C:\Users\[user]\Downloads` on Windows\n
+`cd ./home/[user]/Downloads` on Linux \n
+`cd C:\Users\[user]\Downloads` on Windows \n
 `cd ~/Downloads` on MacOS
 
 Then, run the program with Python:
